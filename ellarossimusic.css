@@ -1,0 +1,193 @@
+.navbar-list {
+		width: 100%;
+	}
+	
+	.navbar-ul {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: flex-end;
+		text-decoration-style: none;
+		padding: 0px;
+	}
+	
+	li {
+   margin: 30px;
+display: inline;
+color: #000000;
+font-size: 30px;
+font-family: "playfair-display";
+font-weight: bolder;
+		
+	}
+	
+	.index_backround{
+		background-image: url("assets/Ella-walk.gif");
+		background-size: cover;
+		background-repeat:no-repeat;
+		background-attachment: scroll;
+		height: 100vh;
+		width: 100vw;
+		background-position: center center;
+		margin: 0px 0px 0px 0px;
+	}
+.contact_backround{
+    background-image: url("assets/Window_ella.jpg");
+ background-size: cover;
+		background-repeat:no-repeat;
+		background-attachment: scroll;
+		height: 100vh;
+		width: 100vw;
+		background-position: center center;
+		margin: 0px 0px 0px 0px;
+	}
+	.about_backround{
+    background-image: url("assets/DSC08141.jpg");
+    background-size: cover;
+		background-repeat:no-repeat;
+		background-attachment: scroll;
+		height: 100vh;
+		width: 100vw;
+		background-position: center center;
+		margin: 0px 0px 0px 0px;
+	}
+	.accounts_music {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+		margin-right: 80px;
+    margin-left: 80px;
+}
+	.social_media_links {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+}
+.contact_select {
+    color: #91AC9A;
+    font-family: playfair-display;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+}
+.email_layout {
+    color: #B3C2CF;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    text-decoration: none;
+    display: flex;
+    align-items: bottom;
+    justify-content: center;
+    flex-direction: row-reverse;
+	margin-top: 400px;
+}
+.watchmore_layout {
+    color: #000000;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    text-decoration: none;
+    display: flex;
+    align-items: bottom;
+    justify-content: center;
+    flex-direction: row-reverse;
+    margin-top: 150px;
+    border: medium groove #000000;
+}
+.fanc_a_tag {
+    margin: 30px;
+	text-decoration: none;
+	}
+.tgg1{
+	margin-right: auto;
+	margin-left: 60px;
+}
+.tgg2{
+	margin: 0;
+	width: 80%;
+	max-width: 65%;
+	margin-right: 60px;
+	
+		
+}
+.body-text {
+    color: #564166;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+    text-align: left;
+    display: flex;
+    max-width: 47%;	
+}
+.body-text-2 {
+    color: #564166;
+    font-family: playfair-display;
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+    text-align: left;
+    display: flex;
+    max-width: 35%;
+}
+.body-text-3 {
+    color: #564166;
+    font-family: "playfair-display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+    text-align: right;
+    display: flex;
+}
+.body-text-4 {
+    color: #846B98;
+    font-family: 'playfair-display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+    text-align: right;
+    display: flex;
+}
+	.music_backround{
+    background-image: url("assets/Blurry.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 100vh;
+    width: 100vw;
+    background-position: center center;
+    margin: 0px 0px 0px 0px;
+    border-width: medium;
+    border-style: double;
+	}
+.video_backround{
+    background-image: url("assets/DSC08076.jpg");
+    background-size: cover;
+		background-repeat:no-repeat;
+		background-attachment: scroll;
+		height: 100vh;
+		width: 100vw;
+		background-position: center center;
+		margin: 0px 0px 0px 0px;
+}
+.single{
+	width: 100%;
+	 display: flex;
+	 justify-content: center;
+	 align-idem: center;
+}
+.tgg{
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-start;
+	width: 100%;
+	flex-direction:row;
+	flex-wrap: nowrap;
+}
+.videos{
+	margin-right: 275px;
+}
